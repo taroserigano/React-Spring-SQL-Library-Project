@@ -8,3 +8,6 @@ issuer: 'https://dev-29252623.okta.com/oauth2/default',
 
 redirectUri:'http://localhost:3000/login/callback', 
 scope: ['openid', 'profile','email'],
+
+testuser@email.com
+testdedeath 
